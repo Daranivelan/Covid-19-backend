@@ -1,0 +1,228 @@
+{
+  "vaccination": [
+    {
+      "name": "andhrapradesh",
+      "vaccinated": 500000,
+      "partially_vaccinated": 300000,
+      "fully_vaccinated": 200000,
+      "total_population": 53903393,
+      "percentage_vaccinated": 0.93
+    },
+    {
+      "name": "arunachalpradesh",
+      "vaccinated": 10000,
+      "partially_vaccinated": 7000,
+      "fully_vaccinated": 3000,
+      "total_population": 1570458,
+      "percentage_vaccinated": 0.64
+    },
+    {
+      "name": "assam",
+      "vaccinated": 120000,
+      "partially_vaccinated": 80000,
+      "fully_vaccinated": 40000,
+      "total_population": 35607039,
+      "percentage_vaccinated": 0.34
+    },
+    {
+      "name": "bihar",
+      "vaccinated": 150000,
+      "partially_vaccinated": 100000,
+      "fully_vaccinated": 50000,
+      "total_population": 124799926,
+      "percentage_vaccinated": 0.12
+    },
+    {
+      "name": "chhattisgarh",
+      "vaccinated": 160000,
+      "partially_vaccinated": 110000,
+      "fully_vaccinated": 50000,
+      "total_population": 29436231,
+      "percentage_vaccinated": 0.54
+    },
+    {
+      "name": "goa",
+      "vaccinated": 30000,
+      "partially_vaccinated": 20000,
+      "fully_vaccinated": 10000,
+      "total_population": 1542750,
+      "percentage_vaccinated": 1.94
+    },
+    {
+      "name": "gujarat",
+      "vaccinated": 200000,
+      "partially_vaccinated": 130000,
+      "fully_vaccinated": 70000,
+      "total_population": 63872399,
+      "percentage_vaccinated": 0.31
+    },
+    {
+      "name": "haryana",
+      "vaccinated": 180000,
+      "partially_vaccinated": 120000,
+      "fully_vaccinated": 60000,
+      "total_population": 25351462,
+      "percentage_vaccinated": 0.71
+    },
+    {
+      "name": "himachalpradesh",
+      "vaccinated": 40000,
+      "partially_vaccinated": 25000,
+      "fully_vaccinated": 15000,
+      "total_population": 7300000,
+      "percentage_vaccinated": 0.55
+    },
+    {
+      "name": "jharkhand",
+      "vaccinated": 70000,
+      "partially_vaccinated": 50000,
+      "fully_vaccinated": 20000,
+      "total_population": 32988134,
+      "percentage_vaccinated": 0.21
+    },
+    {
+      "name": "karnataka",
+      "vaccinated": 500000,
+      "partially_vaccinated": 300000,
+      "fully_vaccinated": 200000,
+      "total_population": 67562686,
+      "percentage_vaccinated": 0.74
+    },
+    {
+      "name": "kerala",
+      "vaccinated": 400000,
+      "partially_vaccinated": 250000,
+      "fully_vaccinated": 150000,
+      "total_population": 35699443,
+      "percentage_vaccinated": 1.12
+    },
+    {
+      "name": "madhyapradesh",
+      "vaccinated": 150000,
+      "partially_vaccinated": 100000,
+      "fully_vaccinated": 50000,
+      "total_population": 85358965,
+      "percentage_vaccinated": 0.18
+    },
+    {
+      "name": "maharashtra",
+      "vaccinated": 1000000,
+      "partially_vaccinated": 600000,
+      "fully_vaccinated": 400000,
+      "total_population": 123144223,
+      "percentage_vaccinated": 0.81
+    },
+    {
+      "name": "manipur",
+      "vaccinated": 15000,
+      "partially_vaccinated": 10000,
+      "fully_vaccinated": 5000,
+      "total_population": 3091545,
+      "percentage_vaccinated": 0.48
+    },
+    {
+      "name": "meghalaya",
+      "vaccinated": 8000,
+      "partially_vaccinated": 5000,
+      "fully_vaccinated": 3000,
+      "total_population": 3366710,
+      "percentage_vaccinated": 0.24
+    },
+    {
+      "name": "mizoram",
+      "vaccinated": 3000,
+      "partially_vaccinated": 2000,
+      "fully_vaccinated": 1000,
+      "total_population": 1097206,
+      "percentage_vaccinated": 0.27
+    },
+    {
+      "name": "nagaland",
+      "vaccinated": 7000,
+      "partially_vaccinated": 5000,
+      "fully_vaccinated": 2000,
+      "total_population": 1978502,
+      "percentage_vaccinated": 0.35
+    },
+    {
+      "name": "odisha",
+      "vaccinated": 180000,
+      "partially_vaccinated": 120000,
+      "fully_vaccinated": 60000,
+      "total_population": 46356334,
+      "percentage_vaccinated": 0.39
+    },
+    {
+      "name": "punjab",
+      "vaccinated": 90000,
+      "partially_vaccinated": 60000,
+      "fully_vaccinated": 30000,
+      "total_population": 30141373,
+      "percentage_vaccinated": 0.30
+    },
+    {
+      "name": "rajasthan",
+      "vaccinated": 200000,
+      "partially_vaccinated": 130000,
+      "fully_vaccinated": 70000,
+      "total_population": 81032689,
+      "percentage_vaccinated": 0.25
+    },
+    {
+      "name": "sikkim",
+      "vaccinated": 4000,
+      "partially_vaccinated": 3000,
+      "fully_vaccinated": 1000,
+      "total_population": 690251,
+      "percentage_vaccinated": 0.58
+    },
+    {
+      "name": "tamilnadu",
+      "vaccinated": 450000,
+      "partially_vaccinated": 300000,
+      "fully_vaccinated": 150000,
+      "total_population": 77841267,
+      "percentage_vaccinated": 0.58
+    },
+    {
+      "name": "telangana",
+      "vaccinated": 160000,
+      "partially_vaccinated": 110000,
+      "fully_vaccinated": 50000,
+      "total_population": 38510982,
+      "percentage_vaccinated": 0.42
+    },
+    {
+      "name": "tripura",
+      "vaccinated": 20000,
+      "partially_vaccinated": 15000,
+      "fully_vaccinated": 5000,
+      "total_population": 3671032,
+      "percentage_vaccinated": 0.54
+    },
+    {
+      "name": "uttarpradesh",
+      "vaccinated": 300000,
+      "partially_vaccinated": 200000,
+      "fully_vaccinated": 100000,
+      "total_population": 237882725,
+      "percentage_vaccinated": 0.13
+    },
+    {
+      "name": "uttarakhand",
+      "vaccinated": 50000,
+      "partially_vaccinated": 30000,
+      "fully_vaccinated": 20000,
+      "total_population": 11250858,
+      "percentage_vaccinated": 0.44
+    },
+    {
+      "name": "westbengal",
+      "vaccinated": 280000,
+      "partially_vaccinated": 180000,
+      "fully_vaccinated": 100000,
+      "total_population": 99609303,
+      "percentage_vaccinated": 0.28
+    }
+  ]
+}

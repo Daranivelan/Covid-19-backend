@@ -1,0 +1,200 @@
+{
+  "hospitals": [
+    {
+      "name": "andhrapradesh",
+      "hospitals": 500,
+      "beds": 20000,
+      "ventilators": 1500,
+      "icu_capacity": 1000
+    },
+    {
+      "name": "arunachalpradesh",
+      "hospitals": 50,
+      "beds": 2000,
+      "ventilators": 100,
+      "icu_capacity": 100
+    },
+    {
+      "name": "assam",
+      "hospitals": 200,
+      "beds": 8000,
+      "ventilators": 500,
+      "icu_capacity": 400
+    },
+    {
+      "name": "bihar",
+      "hospitals": 300,
+      "beds": 12000,
+      "ventilators": 800,
+      "icu_capacity": 600
+    },
+    {
+      "name": "chhattisgarh",
+      "hospitals": 250,
+      "beds": 10000,
+      "ventilators": 600,
+      "icu_capacity": 500
+    },
+    {
+      "name": "goa",
+      "hospitals": 70,
+      "beds": 3000,
+      "ventilators": 200,
+      "icu_capacity": 150
+    },
+    {
+      "name": "gujarat",
+      "hospitals": 400,
+      "beds": 16000,
+      "ventilators": 1200,
+      "icu_capacity": 900
+    },
+    {
+      "name": "haryana",
+      "hospitals": 350,
+      "beds": 14000,
+      "ventilators": 1000,
+      "icu_capacity": 800
+    },
+    {
+      "name": "himachalpradesh",
+      "hospitals": 100,
+      "beds": 4000,
+      "ventilators": 300,
+      "icu_capacity": 200
+    },
+    {
+      "name": "jharkhand",
+      "hospitals": 150,
+      "beds": 6000,
+      "ventilators": 400,
+      "icu_capacity": 300
+    },
+    {
+      "name": "karnataka",
+      "hospitals": 600,
+      "beds": 24000,
+      "ventilators": 1800,
+      "icu_capacity": 1200
+    },
+    {
+      "name": "kerala",
+      "hospitals": 500,
+      "beds": 20000,
+      "ventilators": 1500,
+      "icu_capacity": 1000
+    },
+    {
+      "name": "madhyapradesh",
+      "hospitals": 300,
+      "beds": 12000,
+      "ventilators": 800,
+      "icu_capacity": 600
+    },
+    {
+      "name": "maharashtra",
+      "hospitals": 1000,
+      "beds": 40000,
+      "ventilators": 3000,
+      "icu_capacity": 2000
+    },
+    {
+      "name": "manipur",
+      "hospitals": 60,
+      "beds": 2400,
+      "ventilators": 150,
+      "icu_capacity": 100
+    },
+    {
+      "name": "meghalaya",
+      "hospitals": 40,
+      "beds": 1600,
+      "ventilators": 100,
+      "icu_capacity": 80
+    },
+    {
+      "name": "mizoram",
+      "hospitals": 30,
+      "beds": 1200,
+      "ventilators": 80,
+      "icu_capacity": 60
+    },
+    {
+      "name": "nagaland",
+      "hospitals": 50,
+      "beds": 2000,
+      "ventilators": 100,
+      "icu_capacity": 80
+    },
+    {
+      "name": "odisha",
+      "hospitals": 350,
+      "beds": 14000,
+      "ventilators": 1000,
+      "icu_capacity": 700
+    },
+    {
+      "name": "punjab",
+      "hospitals": 250,
+      "beds": 10000,
+      "ventilators": 700,
+      "icu_capacity": 500
+    },
+    {
+      "name": "rajasthan",
+      "hospitals": 400,
+      "beds": 16000,
+      "ventilators": 1200,
+      "icu_capacity": 900
+    },
+    {
+      "name": "sikkim",
+      "hospitals": 20,
+      "beds": 800,
+      "ventilators": 50,
+      "icu_capacity": 40
+    },
+    {
+      "name": "tamilnadu",
+      "hospitals": "704",
+      "beds": "28003",
+      "ventilators": "2003",
+      "icu_capacity": "1502"
+    },
+    {
+      "name": "telangana",
+      "hospitals": 300,
+      "beds": 12000,
+      "ventilators": 800,
+      "icu_capacity": 600
+    },
+    {
+      "name": "tripura",
+      "hospitals": 80,
+      "beds": 3200,
+      "ventilators": 200,
+      "icu_capacity": 150
+    },
+    {
+      "name": "uttarpradesh",
+      "hospitals": 800,
+      "beds": 32000,
+      "ventilators": 2500,
+      "icu_capacity": 1800
+    },
+    {
+      "name": "uttarakhand",
+      "hospitals": 150,
+      "beds": 6000,
+      "ventilators": 400,
+      "icu_capacity": 300
+    },
+    {
+      "name": "westbengal",
+      "hospitals": 500,
+      "beds": 20000,
+      "ventilators": 1500,
+      "icu_capacity": 1000
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "cases": [
+    {
+      "name": "andhrapradesh",
+      "cases": "882002",
+      "deaths": "7103",
+      "recovered": "870003"
+    },
+    {
+      "name": "arunachalpradesh",
+      "cases": 16800,
+      "deaths": 56,
+      "recovered": 16700
+    },
+    {
+      "name": "assam",
+      "cases": 215000,
+      "deaths": 1000,
+      "recovered": 213000
+    },
+    {
+      "name": "bihar",
+      "cases": "260000",
+      "deaths": 1400,
+      "recovered": 248000
+    },
+    {
+      "name": "chhattisgarh",
+      "cases": 280000,
+      "deaths": 3400,
+      "recovered": 276000
+    },
+    {
+      "name": "goa",
+      "cases": 52000,
+      "deaths": 750,
+      "recovered": 51000
+    },
+    {
+      "name": "gujarat",
+      "cases": 270000,
+      "deaths": 4400,
+      "recovered": 265000
+    },
+    {
+      "name": "haryana",
+      "cases": 270000,
+      "deaths": 3000,
+      "recovered": 267000
+    },
+    {
+      "name": "himachalpradesh",
+      "cases": 57000,
+      "deaths": 950,
+      "recovered": 56000
+    },
+    {
+      "name": "jharkhand",
+      "cases": 110000,
+      "deaths": 1000,
+      "recovered": 109000
+    },
+    {
+      "name": "karnataka",
+      "cases": 920000,
+      "deaths": 12000,
+      "recovered": 900000
+    },
+    {
+      "name": "kerala",
+      "cases": 750000,
+      "deaths": 3000,
+      "recovered": 740000
+    },
+    {
+      "name": "madhyapradesh",
+      "cases": 250000,
+      "deaths": 3800,
+      "recovered": 245000
+    },
+    {
+      "name": "maharashtra",
+      "cases": 1900000,
+      "deaths": 49000,
+      "recovered": 1850000
+    },
+    {
+      "name": "manipur",
+      "cases": 28000,
+      "deaths": 370,
+      "recovered": 27000
+    },
+    {
+      "name": "meghalaya",
+      "cases": 14000,
+      "deaths": 150,
+      "recovered": 13800
+    },
+    {
+      "name": "mizoram",
+      "cases": 4200,
+      "deaths": 10,
+      "recovered": 4100
+    },
+    {
+      "name": "nagaland",
+      "cases": 12000,
+      "deaths": 80,
+      "recovered": 11800
+    },
+    {
+      "name": "odisha",
+      "cases": 330000,
+      "deaths": 1900,
+      "recovered": 326000
+    },
+    {
+      "name": "punjab",
+      "cases": 160000,
+      "deaths": 5100,
+      "recovered": 154000
+    },
+    {
+      "name": "rajasthan",
+      "cases": 320000,
+      "deaths": 2800,
+      "recovered": 315000
+    },
+    {
+      "name": "sikkim",
+      "cases": 6000,
+      "deaths": 135,
+      "recovered": 5800
+    },
+    {
+      "name": "tamilnadu",
+      "cases": "820000",
+      "deaths": "12202",
+      "recovered": "799998"
+    },
+    {
+      "name": "telangana",
+      "cases": 290000,
+      "deaths": 1600,
+      "recovered": 285000
+    },
+    {
+      "name": "tripura",
+      "cases": 33000,
+      "deaths": 380,
+      "recovered": 32000
+    },
+    {
+      "name": "uttarpradesh",
+      "cases": 590000,
+      "deaths": 8200,
+      "recovered": 580000
+    },
+    {
+      "name": "uttarakhand",
+      "cases": 95000,
+      "deaths": 1600,
+      "recovered": 93000
+    },
+    {
+      "name": "westbengal",
+      "cases": 550000,
+      "deaths": 9800,
+      "recovered": 540000
+    }
+  ]
+}
